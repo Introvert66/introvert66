@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Introvert66
 
-<!--
-**Introvert66/introvert66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer currently building my own AI-powered trading platform called **TraderoomAI**.
 
-Here are some ideas to get you started:
+## 🚀 About My Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**TraderoomAI** is a smart trading dashboard designed to:
+
+* 📊 Track trading performance (profit, win rate, trades)
+* 🧠 Provide AI-based trading insights
+* 📈 Analyze trading behavior
+* 🤖 Act like a personal trading assistant
+
+## 💻 What I'm Learning
+
+* Frontend: Next.js, Tailwind CSS
+* Backend: (learning phase)
+* AI Integration: OpenAI / Claude
+* UI Design: Modern SaaS dashboards
+
+## ⚡ Tools I Use
+
+* VS Code
+* Claude AI
+* ChatGPT
+* GitHub
+
+## 🎯 My Goal
+
+To build a real, professional SaaS product that helps traders improve their performance using AI.
+
+---
+
+💡 I'm new to development but learning fast and building real projects step-by-step.
