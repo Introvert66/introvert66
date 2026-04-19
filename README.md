@@ -42,6 +42,12 @@ To build a real, professional SaaS product that helps traders improve performanc
 ---
 
 💡 I'm new to development but learning fast and building real projects step-by-step.
+## 🚧 Current Focus
+
+I'm currently working on building **TraderoomAI** step-by-step.
+Right now I'm focusing on learning UI development and understanding how real SaaS products are built.
+
+Projects will be added soon as I progress.
 
 🤝 Open to learning, collaboration, and guidance.
 If someone genuinely helps me grow, I’m committed to using that knowledge to change my life and build something meaningful.
