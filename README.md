@@ -42,3 +42,7 @@ To build a real, professional SaaS product that helps traders improve performanc
 ---
 
 💡 I'm new to development but learning fast and building real projects step-by-step.
+
+🤝 Open to learning, collaboration, and guidance.
+If someone genuinely helps me grow, I’m committed to using that knowledge to change my life and build something meaningful.
+
