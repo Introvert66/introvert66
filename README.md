@@ -1,22 +1,30 @@
 # 👋 Hi, I'm Introvert66
 
-I'm a beginner developer currently building my own AI-powered trading platform called **TraderoomAI**.
+🚀 Building **TraderoomAI** — an AI-powered trading assistant
+📊 Focused on trading dashboards, analytics & automation
+💻 Beginner developer learning step-by-step
+
+---
 
 ## 🚀 About My Project
 
 **TraderoomAI** is a smart trading dashboard designed to:
 
 * 📊 Track trading performance (profit, win rate, trades)
-* 🧠 Provide AI-based trading insights
+* 🧠 Provide AI-powered trading insights
 * 📈 Analyze trading behavior
 * 🤖 Act like a personal trading assistant
 
-## 💻 What I'm Learning
+---
+
+## 🧠 What I'm Learning
 
 * Frontend: Next.js, Tailwind CSS
-* Backend: (learning phase)
+* Backend: Currently learning
 * AI Integration: OpenAI / Claude
 * UI Design: Modern SaaS dashboards
+
+---
 
 ## ⚡ Tools I Use
 
@@ -25,9 +33,11 @@ I'm a beginner developer currently building my own AI-powered trading platform c
 * ChatGPT
 * GitHub
 
+---
+
 ## 🎯 My Goal
 
-To build a real, professional SaaS product that helps traders improve their performance using AI.
+To build a real, professional SaaS product that helps traders improve performance using AI.
 
 ---
 
